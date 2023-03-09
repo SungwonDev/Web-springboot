@@ -1,5 +1,6 @@
 package com.example.webspringboot;
 
+import com.example.webspringboot.aop.TimeTraceAop;
 import com.example.webspringboot.repository.JpaMemberRepository;
 import com.example.webspringboot.repository.MemberRepository;
 import com.example.webspringboot.service.MemberService;
@@ -25,7 +26,6 @@ public class SpringConfig {
     public MemberService memberService() {
         return new MemberService(memberRepository);
     }
-
 
 //    @Bean
 //    public MemberRepository memberRepository(){
