@@ -52,13 +52,14 @@
 # 회원등록 / 조회 / 호출시간 테스트
 
 ### 1. 등록
-![test]()<br>
+![test](https://github.com/SungwonDev/Web-springboot/blob/develop/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8%20%EC%9B%B9/1.png)<br>
+![test](https://github.com/SungwonDev/Web-springboot/blob/develop/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8%20%EC%9B%B9/2.png)<br>
 
 ### 2. 조회
-![test]()<br>
+![test](https://github.com/SungwonDev/Web-springboot/blob/develop/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8%20%EC%9B%B9/3.png)<br>
 
 ### 3. 호출 시간
-![test]()<br>
+![test](https://github.com/SungwonDev/Web-springboot/blob/develop/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8%20%EC%9B%B9/4.png)<br>
 
 
 
